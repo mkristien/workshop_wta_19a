@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 pochadzam z velkych kapusian
+=======
+pochadzam z martina
+studoval som v bratislave
+pochadzam z Piestan
+>>>>>>> 3058fcef032afa7266799b1efb92b38b9e5c7d79
