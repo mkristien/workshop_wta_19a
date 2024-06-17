@@ -1,1 +1,7 @@
-pochadzam zo ziliny
+>>>>>>> Stashed changes
+pochadzam z Kosic
+=======
+pochadzam z Piestan
+studoval som v bratislave
+pochadzam z martina
+<<<<<<< Updated upstream
